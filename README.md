@@ -27,3 +27,9 @@
 
 ```bash
 pip install -r requirements.txt
+
+## Запуск
+
+```bash
+python main.py
+
