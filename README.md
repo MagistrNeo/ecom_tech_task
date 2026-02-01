@@ -23,13 +23,9 @@
 - ClickHouse сервер
 - Установленные библиотеки из requirements.txt
 
-## Установка
+## Установка и запуск
 
 ```bash
 pip install -r requirements.txt
-
-## Запуск
-
-```bash
 python main.py
 
